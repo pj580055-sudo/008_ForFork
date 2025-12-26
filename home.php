@@ -24,7 +24,7 @@
 				<li><a href="home.php">หน้าแรกกกกกกก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อ</li>
+				<li><a href="contact.php">ติดต่อ 0123456789</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
@@ -32,3 +32,4 @@
 	</table>
 
 <body>
+
